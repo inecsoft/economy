@@ -20,7 +20,7 @@
   * _P - Price_
   * _F(K,L)- Product function (K=Capital and L=Labor)_  
   * _r - Interest rate or the price of capital_ 
-  * _w - Wage rate or price of labor_
+  * _W - Wage rate or price of labor_
 
 π > 0
 
