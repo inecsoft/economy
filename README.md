@@ -13,7 +13,7 @@
 ***
 
 <div align="center">
-    <h1>π = P*F(K,L) </h1>
+    <h1>π = P*F(K,L) - r * K - W * L </h1>
 </div>
 
   * _π - Profit_ 
