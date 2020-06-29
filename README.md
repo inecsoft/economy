@@ -4,7 +4,7 @@
 </div>
 
 ***
-### __Q = F(K*P*T)__
+### __Q = f(K * P * T)__
    
    * _Q = Quality_  
    * _K = Knowleage_  
@@ -13,11 +13,15 @@
 ***
 
 <div align="center">
-    <h1>π = K * p </h1>
+    <h1>π = P*F(K,L) </h1>
 </div>
 
   * _π - Profit_ 
-  * _K - Capital_  
-  * _p - _  
+  * _P - Price_
+  * _F(K,L)- Product function (K=Capital and L=Labor)_  
+  * _r - Interest rate or the price of capital_ 
+  * _w - Wage rate or price of labor_
+
+π > 0
 
 ***
