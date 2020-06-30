@@ -26,11 +26,11 @@
 
 ***
 
-__Market:__ profit test
-__Rent-seeking:__ Rent/Subsidy test
+__Market:__ profit test  
+__Rent-seeking:__ Rent/Subsidy test  
 
-More Profit? Hire engineers
-More Rent-seeking? Hire lawyers and lobbyists
+More Profit? Hire engineers  
+More Rent-seeking? Hire lawyers and lobbyists  
 
 Profit are produced, as a result of making products people wan to buy, and doing it at a cost less than the value people place on the product. It is the rewards for creating value.
 
@@ -83,5 +83,23 @@ Economies destroys jobs.
   - Less costly, more Efficient
   - Money the "Middle Man"
   - Money Price and Mental Economy
+
+* The Political Economy of Money
+   * Purcansing Power(PP)
+      - Infaltion: a decrease in the PP of money; prices; cost of living goes up.
+      - Defaltion: and increase in the PP power of money prices, cost of living goes down.
+      - Devaluation and Debasement:  Official and inmediate reductions in PP.
+
+   * Theories of Money & Purchasing Power (PP)
+      - The Conventional Theory of Money.
+      - The State Theory of Money.
+      - The Quatliy theory of Money.
+      - The Quantity Theory of Money.
+         M * V = P * T
+        
+        - M = Money supply
+        - V = Velocity(reciprocal of money demand)
+        - P = Price level
+        - T = Economic Growth
 
 ***
