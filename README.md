@@ -103,3 +103,22 @@ Economies destroys jobs.
         - T = Economic Growth
 
 ***
+### __Big problem, Choose from among Imperfect Solutions__
+
+   * We need other people to do things for us. Lots of people, logs of things, even if we just want a sandwich or a pencil.
+   * King? Pretty good to be king, but not serf
+   * State? Can't do it. No information, bad incentives. Amounts to a king
+   * Markets? Lots of problems, and inequality. But fewer problems that if state does it, and less inequality thatn if King does it.
+   * So the argument is not that markets are perfect, but rather that states and Kings are even worse. State don't have the information guiven by prices, and king...well, Kings are Kings. Not very egualitarian.
+
+Currency: Unit of account, store of value, medium of exchange. Any currency has a mix of transactions and speculative motives for "demand".
+
+Money: A system of clearing transactions. Trust, transport, and transaction.
+
+### __Crypto corrency solves__
+   * No need to develop banks, property systems, independent judiciary.
+   * breaks monopoly of governments and large financial intermediaries, especially banks and credit card companies(visa and mastercard).
+   
+
+
+***
