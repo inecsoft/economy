@@ -118,7 +118,51 @@ Money: A system of clearing transactions. Trust, transport, and transaction.
 ### __Crypto corrency solves__
    * No need to develop banks, property systems, independent judiciary.
    * breaks monopoly of governments and large financial intermediaries, especially banks and credit card companies(visa and mastercard).
-   
+   * Not just currency, but an entire system for clearing transactions:
+     - trusless proof
+     - decentralized 
+     - blockchanin ledger
+     - impossible to counterfeit or cheat
+
+***
+#### __It is inmoral for me to use something that someone values more. It is a mistake.__
+
+   * _Exchange corrects Mistakes_
+       - There are two reasons this is important.
+       - Exchange corrects "Mistakes" in allocation, Because it moves stuff toward higher valued uses.
+       - Exchange makes everyone who exchanges a lot happier.
+       - There are two basic origins of exchange, and both are important.
+          
+          Same stuff, different preferences.  
+          Same preferences, diferent stuff.  
+
+Note: this is the origins of exchange. the origins of market is devision of labor and expecialization. 
+
+***
+
+### __Pure Democracy__
+
+* Indeterminacy/Instability leads to chaos and dictatorship.
+* Democracyis Inherently abusive and tyrannical, without protections.
+
+### __The two parts of a democratic constitution.__
+   1. The limits on what we can decide on collectively.  
+   2. The process by which we will decide.  
+
+Note: contitutional republic suppress democracy.
+
+
+Why do "constitutional republics" solve the problem?
+1. Protections against mayority rule, some limits on domain.
+2. rule of 2 (because 2 > 3)
+
+President/Congres: First pas the post
+
+PM/Parlianment: Negotiated coalitions, "Goverment" vs "Opposition".
+
+### __Sucessful goverment is protection of the rights of individuals__ 
+    1. You need stable constitution.
+    2. Independent judiciary. 
 
 
 ***
