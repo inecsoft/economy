@@ -1,6 +1,6 @@
 ***
 <div align="center">
-    <h1>Profit & Entreprenership</h1>
+   <h1>Profit & Entreprenership</h1>
 </div>
 
 ***
@@ -13,7 +13,7 @@
 ***
 
 <div align="center">
-    <h1>π = P*F(K,L) - r * K - W * L </h1>
+   <h1>π = P*F(K,L) - r * K - W * L </h1>
 </div>
 
   * _π - Profit_ 
@@ -59,7 +59,7 @@ Markets orginaze excahnge among/within states.
 
 * Your imaginary "State".
 * The way politics is designed to work:
-the median voter
+   - The median voter
 * The way politics atually works...
 
 ### __Opportunity cost__
@@ -75,8 +75,8 @@ Economies destroys jobs.
 ### __Money, Bancking & Public Finance__
 
 * Direct Exchange
-  - The "Double coincience of wants".
-  - High transsactions Costs & Inecffiencies.
+  - The "Double coincidence of wants".
+  - High transaction Costs & inefficiencies.
   - Prices as Exchage Ratios
   
 * Indirect Exchange
@@ -85,7 +85,7 @@ Economies destroys jobs.
   - Money Price and Mental Economy
 
 * The Political Economy of Money
-   * Purcansing Power(PP)
+   * Purchasing Power(PP)
       - Infaltion: a decrease in the PP of money; prices; cost of living goes up.
       - Defaltion: and increase in the PP power of money prices, cost of living goes down.
       - Devaluation and Debasement:  Official and inmediate reductions in PP.
@@ -143,7 +143,7 @@ Note: this is the origins of exchange. the origins of market is devision of labo
 ### __Pure Democracy__
 
 * Indeterminacy/Instability leads to chaos and dictatorship.
-* Democracyis Inherently abusive and tyrannical, without protections.
+* Democracy is Inherently abusive and tyrannical, without protections.
 
 ### __The two parts of a democratic constitution.__
    1. The limits on what we can decide on collectively.  
