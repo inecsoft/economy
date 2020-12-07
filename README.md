@@ -43,7 +43,7 @@ Rent-Extraction is manipulating rules, or physical environment, to facilitate co
 
 * __Markets:__ Institutions for reducing transactions cost of impersonal exchange.
 * __States:__ Institutions with monopoly on legistimate use of force.
-* __Division of labor:__ both markets and states organize division of labor, though in different and higly productive ways.
+* __Division of labor:__ Both markets and states organize division of labor, though in different and higly productive ways.
 
 States orgianize "protected" territories with laws.
 Markets orginaze excahnge among/within states.
@@ -77,7 +77,7 @@ Economies destroys jobs.
 * Direct Exchange
   - The "Double coincidence of wants".
   - High transaction Costs & inefficiencies.
-  - Prices as Exchage Ratios
+  - Prices as Exchange Ratios
   
 * Indirect Exchange
   - Less costly, more Efficient
@@ -129,7 +129,7 @@ Money: A system of clearing transactions. Trust, transport, and transaction.
 
    * _Exchange corrects Mistakes_
        - There are two reasons this is important.
-       - Exchange corrects "Mistakes" in allocation, Because it moves stuff toward higher valued uses.
+       - Exchange corrects "Mistakes" in allocation, Because it moves stuff towards higher valued uses.
        - Exchange makes everyone who exchanges a lot happier.
        - There are two basic origins of exchange, and both are important.
           
@@ -164,5 +164,33 @@ PM/Parlianment: Negotiated coalitions, "Goverment" vs "Opposition".
     1. You need stable constitution.
     2. Independent judiciary. 
 
+
+***
+### __Welfare economics__
+
+#### __Cost__
+1- Efficiency loss (due to minimum wage and gas price ceillings)
+2- Allocation Inefficiency (it is bad, because it cause line for hours for products. They could be trading which makes both parties better off. Resulting in hearting society. The solution is getting the people that want to pay the hight price for the product)
+
+Direct effect    - low prices
+Indirect effect  - long lines / wait
+
+#### __Elasticity__
+
+  £ = (▲ Q / Q) / (▲ P / P)
+
+  R = P * Q
+
+  ▲ R / ▲ P = Q + P * (▲ Q / ▲ P)
+
+  ▲ R / ▲ P = Q * (1 + £ )
+  
+***
+
+Las grandes naciones nunca empobrecen por la prodigalidad y los errores de sus ciudadanos sino por el despilfarro y los manos manejos de sus gobernantes. Por lo mismo; es de suma impertinencia que reyes y ministros pretendan vijilar la economia de los ciudadanos. Puesto que presisamente los reyes y los ministros son siempre y sin exception los mas grandes despilfarradores de la sociedad. 
+
+El esfuerzo natural de cada individuo por mejorar su condicion cuando se le permite actuar con libertad y securidad es un principio tan poderoso y sin ninguan ayuda puede lograr la riqueza y la prosperidad de la sociedad y vencer los cientos de optaculos e impertinentes con que la locura de las leyes humanas con tanta frecuencia trata de obstaculizar su realizacion. 
+
+Prohibir a un gran pueblo que saque el mayor provecho de cada una de sus propias mercancias o que emplee su capital y sus conocimientos en la forma que estime mas convenientes para sus intereses es una violacion manifiesta de los derechos humanos mas sagrados. 
 
 ***
