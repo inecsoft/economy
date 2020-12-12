@@ -187,10 +187,10 @@ Indirect effect  - long lines / wait
   
 ***
 
-Las grandes naciones nunca empobrecen por la prodigalidad y los errores de sus ciudadanos sino por el despilfarro y los manos manejos de sus gobernantes. Por lo mismo; es de suma impertinencia que reyes y ministros pretendan vijilar la economia de los ciudadanos. Puesto que presisamente los reyes y los ministros son siempre y sin exception los mas grandes despilfarradores de la sociedad. 
+Las grandes naciones nunca empobrecen por la prodigalidad y los errores de sus ciudadanos sino por el despilfarro y los malos manejos de sus gobernantes. Por lo mismo; es de suma impertinencia que reyes y ministros pretenden vigilar la economía de los ciudadanos. Puesto que precisamente los reyes y los ministros son siempre y sin excepción los más grandes despilfarradores de la sociedad.
 
-El esfuerzo natural de cada individuo por mejorar su condicion cuando se le permite actuar con libertad y securidad es un principio tan poderoso y sin ninguan ayuda puede lograr la riqueza y la prosperidad de la sociedad y vencer los cientos de optaculos e impertinentes con que la locura de las leyes humanas con tanta frecuencia trata de obstaculizar su realizacion. 
+El esfuerzo natural de cada individuo por mejorar su condición cuando se le permite actuar con libertad y seguridad es un principio tan poderoso y sin ninguna ayuda puede lograr la riqueza y la prosperidad de la sociedad y vencer los cientos de obstáculos e impertinentes con que la locura de las leyes humanas con tanta frecuencia trata de obstaculizar su realización.
 
-Prohibir a un gran pueblo que saque el mayor provecho de cada una de sus propias mercancias o que emplee su capital y sus conocimientos en la forma que estime mas convenientes para sus intereses es una violacion manifiesta de los derechos humanos mas sagrados. 
+Prohibir a un gran pueblo que saque el mayor provecho de cada una de sus propias mercancías o que emplee su capital y sus conocimientos en la forma que estime más convenientes para sus intereses es una violación manifiesta de los derechos humanos más sagrados.
 
 ***
